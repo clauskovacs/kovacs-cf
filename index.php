@@ -1,45 +1,21 @@
 <!DOCTYPE html>
 <html>
-<head>
+	<head>
 		<title></title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="CSS/style.css">
-		<script type="text/javascript" src="JS/ajax_v1_0_0_not_minified.js"></script>
-</head>
+	</head>
+	<body>
+		<b>Where to find me:</b>
+		<br>
+		Youtube: <a class="customlink" href ="https://www.youtube.com/V9ZIE" target="_blank">V9ZIE</a>
+		<br>
+		Github: <a class="customlink" href ="https://github.com/clauskovacs" target="_blank">ClausKovacs</a>
+		<br>
+		<br>
 
-
-<body>
-
-<!--
-<div id="head">
-	<h1>< spidersheep ></h1>
-</div>
--->
-
-<div id = "" style="clear:both;">
-<br>
-</div>
-
-<!--
-<div class="div_link" style="background-color:#E49BEC;">
-    <a href = "/PHP/AJAX/contact.php" onClick = "javascript:contact();return false;">
-        contact<br>
-    </a>
-</div>
--->
-
-<div class="div_link" style="background-color:#E49BEC;">
-    <a href = "contact.php">
-        contact<br>
-    </a>
-</div>
-
-
-<div id = "Col_1" style="clear:both;">
-</div>
-
-
-</body>
-
-
+		<b>Contact:</b>
+		<br>
+		claus[at]kovacs.cf
+	</body>
 </html>

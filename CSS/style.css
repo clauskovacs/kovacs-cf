@@ -1,98 +1,27 @@
-.div_link a {
-	display: block;
-	height: 100%;
-}
-
-
-.div_link a:hover {
-	background-color: white;
-}
-
-
-.div_link {
-	text-align:center;
-	float: right;
-	width:75px;
-	border: 1px solid black;
-	height: 22px;
-	line-height: 22px;
-	margin-right:4px;
-}
-
-
-
-
-
-
-
-
-
-
-/* unterdrunter */
-
-.div_link_down a {
-	display: block;
-	height: 100%;
-}
-
-
-.div_link_down a:hover {
-	background-color: white;
-}
-
-
-.div_link_down {
-	text-align:center;
-	float: top;
-	width:75px;
-	border: 1px solid black;
-	line-height: 22px;
-	margin-top:4px;
-}
-
-
-/* unterdrunter */
-
-
-
-
-
-
-
-
-
-
-
-
-a:link {
- text-decoration: none;
- font-family: Arial,Helvetica,sans-serif;
- font-size: 12px;
- text-transform: uppercase;
-color: black;
-}
-a:visited {
- font-family: Arial,Helvetica,sans-serif;
- font-size: 12px;
- text-transform: uppercase;
- text-decoration: none;
-color: black;
-}
-a:hover {
- font-family: Arial,Helvetica,sans-serif;
- font-size: 12px;
- text-transform: uppercase;
- text-decoration: none;
-color: black;
-}
-
-
-
-
-#head
+.customlink:link, .customlink:visited
 {
-	font-family:Garamond; src:url(garamond.eot), url(garamond.pfr);
-	text-align: center;
-	height: auto;
+	font-family:Verdana;
+	font-size: 14px;
+	text-decoration: none;
+	color: blue;
+/* 	text-transform: uppercase; */
 }
 
+.customlink:hover
+{
+	color: black;
+}
+
+.customlink:active
+{
+	color: black;
+}
+
+body
+{
+	font-family: Verdana;
+	font-weight: normal;
+	color: black;
+	font-size: 15px;
+	background-color: #E8E8E8;  
+}
