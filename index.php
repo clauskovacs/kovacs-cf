@@ -10,7 +10,7 @@
 		<br>
 		Youtube: <a class="customlink" href ="https://www.youtube.com/V9ZIE" target="_blank">V9ZIE</a>
 		<br>
-		Github: <a class="customlink" href ="https://github.com/clauskovacs" target="_blank">ClausKovacs</a>
+		Github: <a class="customlink" href ="https://github.com/clauskovacs" target="_blank">clauskovacs</a>
 		<br>
 		<br>
 
