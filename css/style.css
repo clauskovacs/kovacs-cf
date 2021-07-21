@@ -1,0 +1,53 @@
+/* mainpage: font, colors, etc. */
+body
+{
+	font-family: Verdana;
+	font-weight: normal;
+	color: black;
+	font-size: 15px;
+	background-color: #E8E8E8;  
+}
+
+/* mainpage: formatting of the emphasized text, e.g., "contact:" */
+div.emphText
+{
+  font-size: 125%;
+  font-weight: bold;
+  margin-bottom: 2.5px;
+}
+
+
+/* mainpage: link formatting */
+.customlink: link, .customlink: visited
+{
+	font-family: Verdana;
+	font-size: 14px;
+	text-decoration: none;
+	color: blue;
+/* 	text-transform: uppercase; */
+}
+
+.customlink: hover
+{
+	color: black;
+}
+
+.customlink: active
+{
+	color: black;
+}
+
+
+/* mainpage: (nested) lists formatting (type, spacing, etc.) */
+.mainpageListFirst
+{
+	list-style-type: none;
+	padding-left: 0.5em;
+	margin-top:0;
+}
+
+.mainpageListSecond
+{
+	list-style-type: circle;
+	padding-left: 2.0em;
+}
