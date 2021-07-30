@@ -48,7 +48,7 @@
 							Project Thesis 2</a>
 							(Electrochemical Cell for Single Crystal Samples)
 					</li>
-
+					<!--
 					<li>
 						<a	class = "customlink"
 							href = "physics/numerical_simulation_electrochemical_flowcell.pdf"
@@ -56,6 +56,7 @@
 							Master's Thesis</a>
 							(Numerical Simulation of an Electrochemical Flow Cell using Finite-Element Simulations)
 					</li>
+					-->
 				</ul>
 
 			<li style = "padding-top: 0.25em;"><b>Programming, Webdesign</b>
