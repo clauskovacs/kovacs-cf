@@ -63,15 +63,15 @@
 				<ul class = "mainpageListSecond">
 					<li>
 						<a	class = "customlink"
-							href = "http://h.ik.cx/"
+							href = "https://higgs.at"
 							target = "_blank">
-							h.ik.cx</a>
+							higgs.at</a>
 							(file hosting for university exams of the TU Wien)
 					</li>
 
 					<li>
 						<a	class = "customlink"
-							href = "http://phys.ik.cx/"
+							href = "https://phys.ik.cx"
 							target = "_blank">
 							phys.ik.cx</a>
 							(personal site)
