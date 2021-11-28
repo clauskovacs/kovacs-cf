@@ -5,6 +5,16 @@
 		<title></title>
 		<meta charset = "utf-8">
 		<link rel = "stylesheet" type = "text/css" href = "css/style.css">
+
+		<!--	favicon	-->
+		<!-- Für Apple-Geräte -->
+		<link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-touch-icon-180x180.png">
+		<!-- Für Browser -->
+		<link rel="shortcut icon" type="image/x-icon" href="favicon/favicon-32x32.ico?v=2">
+		<link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+		<!-- Für Windows Metro -->
+		<meta name="msapplication-square310x310logo" content="favicon/mstile-310x310.png">
+		<meta name="msapplication-TileColor" content="#000000">
 	</head>
 
 	<body>
